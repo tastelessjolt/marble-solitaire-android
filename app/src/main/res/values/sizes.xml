@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="marble_size">25dp</dimen>
+    <dimen name="marble_margin">12dp</dimen>
+
+    <dimen name="board_size">350dp</dimen>
+    <dimen name="top_offset">50dp</dimen>
+    <dimen name="left_offset">53dp</dimen>
+
+</resources>
